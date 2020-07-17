@@ -50,8 +50,8 @@ public class WeicoSecurityUtils {
         String bbb ;
         String str;
         String str2;
-        str = "pd201801";
-        str2 = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC46y69c1rmEk6btBLCPgxJkCxdDcAH9k7kBLffgG1KWqUErjdv+aMkEZmBaprEW846YEwBn60gyBih3KU518fL3F+sv2b6xEeOxgjWO+NPgSWmT3q1up95HmmLHlgVwqTKqRUHd8+Tr43D5h+J8T69etX0YNdT5ACvm+Ar0HdarwIDAQAB";
+        str = "";
+        str2 = "";
 
         System.out.println("Hello");
         WeicoSecurityUtils.test("end");
